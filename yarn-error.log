@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init -Y
+
+PATH: 
+  C:\Users\Luciel\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Luciel\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Users\Luciel\AppData\Local\Microsoft\WindowsApps;C:\Users\Luciel\AppData\Roaming\npm;C:\Program Files\Docker Toolbox;C:\Users\Luciel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Luciel\AppData\Local\Yarn\bin;C:\Users\Luciel\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\Luciel\.dotnet\tools;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\System32\WindowsPowerShell\v1.0;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Program Files\dotnet;C:\Users\Luciel\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Docker Toolbox;C:\Users\Luciel\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Luciel\AppData\Local\Yarn\bin;C:\Users\Luciel\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\Luciel\.dotnet\tools;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\System32\WindowsPowerShell\v1.0;C:\tools\dart-sdk\bin;C:\Users\Luciel\AppData\Roaming\Pub\Cache\bin;C:\flutter\bin;C:\Windows\System32;C:\Users\Luciel\AppData\Roaming\npm;C:\Users\Luciel\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\heroku\bin;C:\Users\Luciel\.dotnet\tools;C:\Program Files (x86)\BrowserStackLocal;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:868:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1137:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
